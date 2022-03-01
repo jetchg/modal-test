@@ -40,8 +40,8 @@ body {font-family: Arial, Helvetica, sans-serif;}
 .close:hover,
 .close:focus {
   color: #FF0000;
-  text-decoration: pointer;
-  cursor: grab;
+  text-decoration: none;
+  cursor: pointer;
 }
 </style>
 </head>
