@@ -46,8 +46,6 @@ body {font-family: Arial, Helvetica, sans-serif;}
 </style>
 </head>
 <body>
-<title>MODAL TEST</title>
-<link rel="icon" href="https://synapse.it/wp-content/uploads/2020/12/test.png" type="image/icon type">
 <!-- Trigger/Open The Modal -->
 <button id="myBtn">Test modal</button>
 
